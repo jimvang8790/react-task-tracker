@@ -23,6 +23,12 @@
       "day": "Nov 1st at 11AM",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "Create Team for Bwana X Forever",
+      "day": "Dec 25th at 12pm",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
