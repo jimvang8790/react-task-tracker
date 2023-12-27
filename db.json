@@ -30,5 +30,17 @@
       "reminder": true,
       "id": 5
     }
+  ],
+  "archers": [
+    { "firstName": "Ben", "lastName": "Schoenbauer", "phone": "9522900470" },
+    { "firstName": "Danika", "lastName": "Thompson", "phone": "6127914092" },
+    { "firstName": "Deacon", "lastName": "Hoven", "phone": "6513291240" },
+    { "firstName": "Jo(Johanna)", "lastName": "Ireland", "phone": "6123853086" },
+    { "firstName": "Lee", "lastName": "Huseby", "phone": "4022170311" },
+    { "firstName": "Levi", "lastName": "Strong", "phone": "8055125734" },
+    { "firstName": "Luca", "lastName": "Lei", "phone": "8015747678" },
+    { "firstName": "Madalynn", "lastName": "Zimlich", "phone": "6517064511" },
+    { "firstName": "Oscar", "lastName": "Moua", "phone": "7636703390" },
+    { "firstName": "Stephen", "lastName": "Christopher", "phone": "6512192362" }
   ]
 }
